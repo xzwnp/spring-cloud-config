@@ -1,1 +1,4 @@
-server.name=sss
+server:
+  name: sss
+config:
+  info:这是一段配置文件
